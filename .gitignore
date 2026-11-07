@@ -1,0 +1,4 @@
+migrate.exe
+*.exe
+*.mp4
+.env
